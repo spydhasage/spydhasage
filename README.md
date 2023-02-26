@@ -1,4 +1,4 @@
-### Hi there I'm [Damilola Ajila!](https://damilolasteven.com)👋
+### Hi there, I'm [Damilola Ajila!](https://damilolasteven.com)👋
 
 <p>
 <a href="https://twitter.com/_damilolasteven.com">
@@ -41,18 +41,20 @@
 
 Languages: `JavaScript` `Html` `Css` `React` `PHP` `Tailwind`
 
-
 Frameworks and Tools:<br> 
 `React` `Flutter` `Git` `Canva` `Adobe Creative Suites` `MySQL` `Google Analytics`
             
 💻 **WordPress**: `Elementor Pro` `JSComposer` `Gutenberg Block Editor` `ACF` `Rest API` `WooCommerce`
 
 👨‍💻 **Code editors**: `VSCode` `Android Studio` `Notepad ++`
-
+   
+![Damilola Ajila Github Stats](https://github-readme-stats.vercel.app/api?username=spydhasage&show_icons=true&include_all_commits=true&theme=radical)
 
 **What's interesting about me?**
 - 😎 I am Self-Motivated
 - 😊 I pay Attention to Details
 - 😅 I can't resist the urge to explore a new tech realeased.
 - ⏲️ I stay up late and drink a lot of ☕ coffee
+    
+![Damilola Ajila Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=spydhasage&layout=compact&theme=radical)
 
