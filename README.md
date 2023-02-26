@@ -29,7 +29,6 @@
 - 💻 Writing `JavaScript` `CSS` `HTML` `Tailwind` `React` `PHP`
 - 🗺️ Mostly active on [Fiver](https://www.fiverr.com/spydha) and [Linkedin](https://www.linkedin.com/in/ajila)
 - 📚 Currently learning more about ReactJs, VueJs, and Java.
-- 🧩 Also Assisted in the seamless migration of a large WordPress site to a new hosting provider, ensuring that all data was properly transferred
 - 📫 How to reach me: [hello@damilolasteven.com](mailto:hello@damilolasteven.com)
 
 **What I like to disscuss about?**
