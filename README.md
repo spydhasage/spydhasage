@@ -32,20 +32,17 @@
 - 📫 How to reach me: [hello@damilolasteven.com](mailto:hello@damilolasteven.com)
 
 **What I like to disscuss about?**
-- 💬 Ask me about `WordPress` `Elementor` `JavaScript` `choice of frameworks` `clean code`
+- 💬 Ask me about `WordPress` `Elementor` `JavaScript` `Java` `choice of frameworks` `clean code`
 
 **What my skill set looks like?**
 
-💻 **Frontend:**
+💻 **Languages:**  `JavaScript` `Html` `Css` `React` `PHP` `Tailwind` `Java`
 
-Languages: `JavaScript` `Html` `Css` `React` `PHP` `Tailwind`
-
-Frameworks and Tools:<br> 
-`React` `Flutter` `Git` `Canva` `Adobe Creative Suites` `MySQL` `Google Analytics`
+⚙️ **Frameworks and Tools:** `React` `Flutter` `Git` `Canva` `Adobe Creative Suites` `MySQL` `Google Analytics`
             
-💻 **WordPress**: `Elementor Pro` `JSComposer` `Gutenberg Block Editor` `ACF` `Rest API` `WooCommerce`
+🌍 **WordPress**: `Elementor Pro` `JSComposer` `Gutenberg Block Editor` `ACF` `Rest API` `WooCommerce`
 
-👨‍💻 **Code editors**: `VSCode` `Android Studio` `Notepad ++`
+👨‍💻 **Code editors**: `VSCode` `IntelliJ IDEA` `Android Studio` `Notepad ++`
    
 ![Damilola Ajila Github Stats](https://github-readme-stats.vercel.app/api?username=spydhasage&show_icons=true&include_all_commits=true&theme=radical)
 
