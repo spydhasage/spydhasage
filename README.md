@@ -14,9 +14,8 @@
 </a>
 <p/>
 
-<br/>
 <p>
-
+   
 **Who I am?**
 - A WordPress/Frontend Developer based in [Lagos](https://en.wikipedia.org/wiki/Lagos), Nigeria.
 - Have 7+ years of hands-on experience in Frontend technology, WordPress Design and Developement, Graphics Design.
