@@ -25,7 +25,7 @@
 
 **What I'm doing?**
 - 🏢 Working as a Freelance Website Developer.
-- 💻 Writing `JavaScript` `CSS` `HTML` `Tailwind` `React` `PHP`
+- 💻 Writing `JavaScript` `CSS` `HTML` `Tailwind` `PHP`
 - 🗺️ Mostly active on [Fiver](https://www.fiverr.com/spydha) and [Linkedin](https://www.linkedin.com/in/ajila)
 - 📚 Currently learning Swift Programming/IOS Development.
 - 📫 How to reach me: [hello@damilolasteven.com](mailto:hello@damilolasteven.com)
@@ -35,13 +35,13 @@
 
 **What my skill set looks like?**
 
-💻 **Languages:**  `JavaScript` `Html` `Css` `React` `PHP` `Tailwind` `Java`
+💻 **Languages:**  `JavaScript` `Html` `Css` `PHP` `Tailwind` `Java`
 
 ⚙️ **Frameworks and Tools:** `React` `Flutter` `Git` `Canva` `Adobe Creative Suites` `MySQL` `Google Analytics`
             
 🌍 **WordPress**: `Elementor Pro` `JSComposer` `Gutenberg Block Editor` `ACF` `Rest API` `WooCommerce`
 
-👨‍💻 **Code editors**: `VSCode` `IntelliJ IDEA` `Android Studio` `Notepad ++`
+👨‍💻 **Code editors**: `VSCode` `XCode` `Android Studio` `Notepad ++`
    
 ![Damilola Ajila Github Stats](https://github-readme-stats.vercel.app/api?username=spydhasage&show_icons=true&include_all_commits=true&theme=radical)
 
