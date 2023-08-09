@@ -27,7 +27,7 @@
 - 🏢 Working as a Freelance Website Developer.
 - 💻 Writing `JavaScript` `CSS` `HTML` `Tailwind` `React` `PHP`
 - 🗺️ Mostly active on [Fiver](https://www.fiverr.com/spydha) and [Linkedin](https://www.linkedin.com/in/ajila)
-- 📚 Currently learning more about ReactJs, VueJs, and Java.
+- 📚 Currently learning Swift Programming/IOS Development.
 - 📫 How to reach me: [hello@damilolasteven.com](mailto:hello@damilolasteven.com)
 
 **What I like to disscuss about?**
