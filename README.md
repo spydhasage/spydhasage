@@ -25,7 +25,7 @@
 
 **What I'm doing?**
 - 🏢 Working as a Freelance Website Developer.
-- 💻 Writing `JavaScript` `CSS` `HTML` `Tailwind` `PHP`
+- 💻 Writing `Swift` `JavaScript` `CSS` `HTML` `Tailwind` `PHP` 
 - 🗺️ Mostly active on [Fiver](https://www.fiverr.com/spydha) and [Linkedin](https://www.linkedin.com/in/ajila)
 - 📚 Currently learning Swift Programming/IOS Development.
 - 📫 How to reach me: [hello@damilolasteven.com](mailto:hello@damilolasteven.com)
