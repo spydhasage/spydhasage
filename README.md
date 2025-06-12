@@ -49,10 +49,10 @@
 ### 🛠️ My Tech Stack
 
 **Languages:**  
-`HTML` `CSS` `JavaScript` `PHP` `Java`
+`HTML` `CSS` `JavaScript` `PHP` `Python`
 
 **Frameworks & Tools:**  
-`React` `Tailwind CSS` `Git` `MySQL` `Figma` `Adobe XD` `Google Analytics`
+`Tailwind CSS` `Git` `MySQL` `Figma` `Adobe XD` `Google Analytics`
 
 **Content Management & Builders:**  
 `WordPress` `Elementor Pro` `Gutenberg` `WPBakery` `ACF` `WooCommerce`
