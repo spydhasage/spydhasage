@@ -80,6 +80,6 @@
 ---
 
 📫 **Reach Me At**  
-[hello@damilola.online](mailto:hello@damilola.online)  
-[https://damilola.online](https://damilola.online)
+[hello@damilola.online](mailto:hello@madebydami.com)  
+[https://damilola.online](https://madebydami.com)
 
