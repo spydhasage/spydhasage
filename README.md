@@ -1,88 +1,92 @@
-### Hi there, I'm [Damilola Ajila!](https://madebydami.com) 👋
+### Damilola Ajila — Web & Mobile Developer (Remote)
 
-<p>
-<a href="https://twitter.com/_damilolasteven">
-   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/ajila/">
-   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://discord.com">
-   <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-</p>
-
-<br clear="all"/>
+Website and mobile developer specializing in building fast, scalable, and user-focused digital products across web and mobile platforms.
 
 ---
 
-### 👨🏾‍💻 About Me
+### Professional Summary
 
-- Website Developer based in [Lagos, Nigeria](https://en.wikipedia.org/wiki/Lagos).
-- 7+ years of experience building websites using `HTML`, `CSS`, `JavaScript`, `PHP`, and WordPress.
-- Skilled in custom WordPress themes, plugin development, API integration, and performance optimization.
-- Built projects across real estate, education, e-commerce, logistics, and media industries.
-- Currently transitioning into **Cybersecurity** and building hands-on security skills.
+Web and Mobile Developer with 7+ years of experience designing, developing, and maintaining web applications and mobile interfaces. Strong expertise in WordPress development, modern frontend development, mobile app development, performance optimization, and API integration.
 
----
+Currently building **Nuvilo**, a healthcare navigation platform focused on improving access to healthcare information and services through structured digital systems.
 
-### 🚀 What I’m Working On
-
-- Full-stack website development projects
-- Cybersecurity learning and practice (SOC, IT support, system security)
-- Building secure, fast, and scalable web applications
-- Expanding my freelance web development agency
+Focused on clean architecture, responsive design, and performance-driven development across web and mobile ecosystems.
 
 ---
 
-### 💬 Ask Me About
+### Core Skills
 
-- Web development strategy and tools
-- WordPress development and automation
-- Frontend optimization & responsive design
-- Website migration & deployment
-- Cybersecurity fundamentals
+**Frontend Development**
+HTML, CSS, JavaScript, Responsive Design, UI Development
 
----
+**Web Frameworks**
+:contentReference[oaicite:0]{index=0}, React Native, Tailwind CSS
 
-### 🛠️ My Tech Stack
+**Mobile Development**
+React Native, SwiftUI
 
-**Languages:**  
-`HTML` `CSS` `JavaScript` `PHP` `Python`
+**Backend Development**
+PHP, MySQL, API Integration, Server-side Logic
 
-**Frameworks & Tools:**  
-`Tailwind CSS` `Git` `MySQL` `Figma` `Google Analytics`
+**CMS Development**
+WordPress, Elementor, Gutenberg, WPBakery, ACF, WooCommerce
 
-**CMS & Builders:**  
-`WordPress` `Elementor` `Gutenberg` `WPBakery` `ACF` `WooCommerce`
-
-**Dev Tools & Environments:**  
-`VSCode` `cPanel` `XAMPP` `GitHub`
+**Tools & Workflow**
+Git, GitHub, VSCode, cPanel, XAMPP, Figma, Google Analytics
 
 ---
 
-### 📊 GitHub Stats
+### Work Focus
 
-![Damilola Ajila GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
-### ☕ Fun Facts
-
-- I enjoy solving real-world problems with code
-- I pay strong attention to clean UI and clean code
-- I enjoy late-night debugging sessions
-- I believe cybersecurity is the future of software development
+- Web application development (remote)
+- Mobile app development (React Native, SwiftUI)
+- WordPress custom development (themes and plugins)
+- Healthcare platform development (Nuvilo)
+- UI/UX implementation with Tailwind CSS
+- API integration and scalable system design
 
 ---
 
-### Reach Me At
+### Featured Project
 
-- Email: hello@madebydami.com  
-- Website: https://madebydami.com  
-- LinkedIn: https://www.linkedin.com/in/ajila/  
-- Twitter: https://twitter.com/_damilolasteven
+**Nuvilo — Healthcare Navigation Platform**  
+A healthcare-focused digital platform designed to simplify access to healthcare information and services through structured navigation, search optimization, and user-centered design.
+
+---
+
+### Experience Highlights
+
+- Built and maintained web platforms across healthcare, real estate, education, logistics, e-commerce, and media industries
+- Developed responsive web interfaces using modern frontend tools and frameworks
+- Delivered custom WordPress solutions tailored to business needs
+- Built mobile-ready UI components using React Native and modern styling systems
+- Improved performance, usability, and responsiveness across multiple projects
+- Managed full lifecycle development: design, build, deploy, and maintenance
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spydhasage&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spydhasage&layout=compact&theme=radical)
+
+---
+
+### Education & Learning Focus
+
+Continuous improvement in:
+- Mobile development (React Native, SwiftUI)
+- Modern frontend architecture
+- Scalable web systems
+- Secure and optimized application design
+
+---
+
+### Contact
+
+Email: hello@madebydami.com  
+Website: https://madebydami.com  
+Location: Remote  
+LinkedIn: https://www.linkedin.com/in/ajila/  
+Twitter: https://twitter.com/_damilolasteven
