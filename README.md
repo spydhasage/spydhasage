@@ -1,4 +1,4 @@
-### Damilola Ajila — Web & Mobile Developer (Remote)
+### Damilola Ajila - Web & Mobile Developer (Remote)
 
 Website and mobile developer specializing in building fast, scalable, and user-focused digital products across web and mobile platforms.
 
@@ -20,7 +20,7 @@ Focused on clean architecture, responsive design, and performance-driven develop
 HTML, CSS, JavaScript, Responsive Design, UI Development
 
 **Web Frameworks**
-:contentReference[oaicite:0]{index=0}, React Native, Tailwind CSS
+React Native, Tailwind CSS, Next JS
 
 **Mobile Development**
 React Native, SwiftUI
@@ -49,8 +49,8 @@ Git, GitHub, VSCode, cPanel, XAMPP, Figma, Google Analytics
 
 ### Featured Project
 
-**Nuvilo — Healthcare Navigation Platform**  
-A healthcare-focused digital platform designed to simplify access to healthcare information and services through structured navigation, search optimization, and user-centered design.
+**Nuvilo - Healthcare Navigation Platform**  
+A healthcare-focused digital platform designed to simplify access to healthcare information and services through structured navigation, search optimization, and user-centred design.
 
 ---
 
