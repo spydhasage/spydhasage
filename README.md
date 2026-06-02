@@ -89,4 +89,4 @@ Email: hello@madebydami.com
 Website: https://madebydami.com  
 Location: Remote  
 LinkedIn: https://www.linkedin.com/in/ajila/  
-Twitter: https://twitter.com/_damilolasteven
+Twitter: https://x.com/damilola_dev
