@@ -65,11 +65,13 @@ A healthcare-focused digital platform designed to simplify access to healthcare 
 
 ---
 
-### GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spydhasage&show_icons=true&theme=radical)
+![Damilola's GitHub stats](https://github-readme-stats.vercel.app/api?username=spydhasage&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spydhasage&layout=compact&theme=radical)
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spydhasage&layout=compact&theme=tokyonight)
 
 ---
 
