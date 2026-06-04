@@ -87,8 +87,15 @@ Continuous improvement in:
 
 ### Contact
 
-Email: hello@madebydami.com  
-Website: https://madebydami.com  
-Location: Remote  
+**Email**  
+hello@madebydami.com  
+
+**Website**  
+https://madebydami.com  
+
+**Location**  
+Remote  
+
+**Socials**  
 LinkedIn: https://www.linkedin.com/in/ajila/  
 Twitter: https://x.com/damilola_dev
