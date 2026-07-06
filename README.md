@@ -66,7 +66,7 @@ A healthcare-focused digital platform designed to simplify access to healthcare 
 ---
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spydhasage&show_icons=true&theme=github_dark&include_all_commits=true&cache_seconds=1800)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spydhasage&theme=github_dark)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spydhasage&layout=compact&theme=github_dark&cache_seconds=1800)
