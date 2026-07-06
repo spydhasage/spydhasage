@@ -64,14 +64,10 @@ A healthcare-focused digital platform designed to simplify access to healthcare 
 - Managed full lifecycle development: design, build, deploy, and maintenance
 
 ---
-### My GitHub Metrics
-![Metrics](./github-metrics.svg)
 
 ### GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spydhasage&theme=github_dark)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spydhasage&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ---
 
